@@ -24,5 +24,8 @@
   "devDependencies": {
     "tap-spec": "^4.1.1",
     "tape": "^4.9.0"
+  },
+  "dependencies": {
+    "path-browserify": "^1.0.0"
   }
 }
